@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "35ada6fb2d5e783e67cd9a6a40652858",
+    "packages": [
+        {
+            "name": "idoalit/sinom",
+            "version": "v1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/idoalit/sinom.git",
+                "reference": "ae95324fb6e9be4de960bc3eb37ce9ec4d2d6721"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/idoalit/sinom/zipball/ae95324fb6e9be4de960bc3eb37ce9ec4d2d6721",
+                "reference": "ae95324fb6e9be4de960bc3eb37ce9ec4d2d6721",
+                "shasum": ""
+            },
+            "require-dev": {
+                "ext-pdo": "*",
+                "phpunit/phpunit": "^9.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Idoalit\\Sinom\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Waris Agung Widodo",
+                    "email": "ido.alit@gmail.com"
+                }
+            ],
+            "description": "A litle library for litle project like \"sinom\"",
+            "support": {
+                "issues": "https://github.com/idoalit/sinom/issues",
+                "source": "https://github.com/idoalit/sinom/tree/v1.0.1"
+            },
+            "time": "2021-11-15T04:53:07+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}

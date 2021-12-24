@@ -1,0 +1,21 @@
+{
+    "name": "idoalit/sinom-slims",
+    "description": "Sinom models for SLiMS",
+    "type": "library",
+    "require": {
+        "idoalit/sinom": "^1.0"
+    },
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Idoalit\\SinomSlims\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waris Agung Widodo",
+            "email": "ido.alit@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
